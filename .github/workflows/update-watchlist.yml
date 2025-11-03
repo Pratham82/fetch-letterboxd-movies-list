@@ -1,0 +1,41 @@
+name: Update Watchlist
+
+on:
+schedule:
+- cron: '0 * * * *' # every hour
+workflow_dispatch: # allow manual trigger too
+
+jobs:
+update-watchlist:
+runs-on: ubuntu-latest
+
+```
+steps:
+  - name: Checkout repository
+    uses: actions/checkout@v4
+
+  - name: Setup Node
+    uses: actions/setup-node@v4
+    with:
+      node-version: 20
+
+  - name: Create .env from GitHub Secrets
+    run: |
+      echo "LETTERBOXD_USER=${{ secrets.LETTERBOXD_USER }}" >> .env
+      echo "BASE_URL=${{ secrets.BASE_URL }}" >> .env
+
+  - name: Install dependencies
+    run: npm ci
+
+  - name: Run watchlist fetch script
+    run: node puppetV3.js
+
+  - name: Commit and push updated watchlist
+    run: |
+      git config --global user.name "github-actions[bot]"
+      git config --global user.email "github-actions[bot]@users.noreply.github.com"
+      git add watchlist.json
+      git commit -m "Update watchlist.json [skip ci]" || echo "No changes to commit"
+      git push
+```
+
