@@ -8,6 +8,7 @@ on:
 jobs:
   update-watchlist:
     runs-on: ubuntu-latest
+    environment: Letterboxd   # use that environment's secrets
 
     steps:
       - name: Checkout repository
