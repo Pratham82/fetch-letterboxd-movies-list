@@ -1,8 +1,9 @@
 name: Update Watchlist
 
+
 on:
   schedule:
-    - cron: '0 * * * *' # every hour
+    - cron: '0 */6 * * *' # every 6 hours
   workflow_dispatch: # allow manual trigger too
 
 jobs:
