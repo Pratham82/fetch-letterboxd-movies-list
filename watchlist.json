@@ -1,5 +1,15 @@
 [
   {
+    "title": "Monster (2023)",
+    "link": "https://letterboxd.com/film/monster-2023/",
+    "image": "https://a.ltrbxd.com/resized/film-poster/9/4/7/0/3/0/947030-monster-0-125-0-187-crop.jpg?v=9787f75532"
+  },
+  {
+    "title": "Amélie (2001)",
+    "link": "https://letterboxd.com/film/amelie/",
+    "image": "https://a.ltrbxd.com/resized/sm/upload/ly/0v/ey/u7/pM20xF4WFyX7G3ie0YBXFp75aEC-0-125-0-187-crop.jpg?v=bc8a28c252"
+  },
+  {
     "title": "La Haine (1995)",
     "link": "https://letterboxd.com/film/la-haine/",
     "image": "https://a.ltrbxd.com/resized/film-poster/5/1/6/8/4/51684-la-haine-0-125-0-187-crop.jpg?v=b6677cc136"
@@ -22,7 +32,7 @@
   {
     "title": "Metropolis (2001)",
     "link": "https://letterboxd.com/film/metropolis-2001/",
-    "image": "https://a.ltrbxd.com/resized/film-poster/4/6/9/9/5/46995-metropolis-0-125-0-187-crop.jpg?v=acf398cd9d"
+    "image": "https://s.ltrbxd.com/static/img/empty-poster-125-AiuBHVCI.png"
   },
   {
     "title": "Train Dreams (2025)",
@@ -32,7 +42,7 @@
   {
     "title": "Seven Samurai (1954)",
     "link": "https://letterboxd.com/film/seven-samurai/",
-    "image": "https://s.ltrbxd.com/static/img/empty-poster-125-AiuBHVCI.png"
+    "image": "https://a.ltrbxd.com/resized/sm/upload/ji/5q/0k/rv/v6xrz4fr92KY1oNC3HsEvrsvR1n-0-125-0-187-crop.jpg?v=973d70bb0c"
   },
   {
     "title": "Maharaja (2024)",
@@ -57,7 +67,7 @@
   {
     "title": "East of Eden (1955)",
     "link": "https://letterboxd.com/film/east-of-eden/",
-    "image": "https://a.ltrbxd.com/resized/sm/upload/g6/h9/we/j5/hjH1uLOySpzgBdm1UQYjTV5yLav-0-125-0-187-crop.jpg?v=72765157a6"
+    "image": "https://s.ltrbxd.com/static/img/empty-poster-125-AiuBHVCI.png"
   },
   {
     "title": "Harakiri (1962)",
@@ -67,7 +77,7 @@
   {
     "title": "The Little Things (2021)",
     "link": "https://letterboxd.com/film/the-little-things-2021/",
-    "image": "https://s.ltrbxd.com/static/img/empty-poster-125-AiuBHVCI.png"
+    "image": "https://a.ltrbxd.com/resized/film-poster/5/2/9/5/2/9/529529-the-little-things-0-125-0-187-crop.jpg?v=bd98e22cc1"
   },
   {
     "title": "The Lighthouse (2019)",
@@ -92,7 +102,7 @@
   {
     "title": "Vanilla Sky (2001)",
     "link": "https://letterboxd.com/film/vanilla-sky/",
-    "image": "https://a.ltrbxd.com/resized/film-poster/5/0/7/0/2/50702-vanilla-sky-0-125-0-187-crop.jpg?v=fbd4b97e55"
+    "image": "https://s.ltrbxd.com/static/img/empty-poster-125-AiuBHVCI.png"
   },
   {
     "title": "The Talented Mr. Ripley (1999)",
@@ -102,7 +112,7 @@
   {
     "title": "Twelve Monkeys (1995)",
     "link": "https://letterboxd.com/film/twelve-monkeys/",
-    "image": "https://s.ltrbxd.com/static/img/empty-poster-125-AiuBHVCI.png"
+    "image": "https://a.ltrbxd.com/resized/sm/upload/gx/5a/fn/12/6Sj9wDu3YugthXsU0Vry5XFAZGg-0-125-0-187-crop.jpg?v=f6da1ec950"
   },
   {
     "title": "The Basketball Diaries (1995)",
@@ -127,16 +137,6 @@
   {
     "title": "The Delinquents (2023)",
     "link": "https://letterboxd.com/film/the-delinquents-2023/",
-    "image": "https://a.ltrbxd.com/resized/film-poster/6/3/7/9/3/4/637934-the-delinquents-0-125-0-187-crop.jpg?v=c3ac372bb2"
-  },
-  {
-    "title": "There Will Be Blood (2007)",
-    "link": "https://letterboxd.com/film/there-will-be-blood/",
-    "image": "https://a.ltrbxd.com/resized/sm/upload/jg/cd/7y/f5/there%20will%20be%20blood-0-125-0-187-crop.jpg?v=8a533d5350"
-  },
-  {
-    "title": "Pulse (2001)",
-    "link": "https://letterboxd.com/film/pulse-2001/",
     "image": "https://s.ltrbxd.com/static/img/empty-poster-125-AiuBHVCI.png"
   }
 ]
